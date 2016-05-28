@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Famous Artwork ListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="dates">1889</string>
+    <string name="art_title">The Starry Night</string>
+    <string name="artist">Vincent van Gogh</string>
+</resources>
